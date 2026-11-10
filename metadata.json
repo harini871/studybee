@@ -1,0 +1,6 @@
+{
+  "name": "StudyBee",
+  "description": "Premium futuristic AI-powered educational web application for Class 1 to 12 (CBSE, State Board, ICSE) in English & Tamil.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
